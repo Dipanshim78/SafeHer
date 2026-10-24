@@ -1,0 +1,11 @@
+# Backend dependencies and credentials
+**/node_modules/
+**/.env
+backend/**/*.log
+
+# Flutter-generated files
+**/.dart_tool/
+**/build/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/android/local.properties
